@@ -1,0 +1,15 @@
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\bin\Debug\net9.0\KP_1.exe
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\bin\Debug\net9.0\KP_1.deps.json
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\bin\Debug\net9.0\KP_1.runtimeconfig.json
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\bin\Debug\net9.0\KP_1.dll
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\bin\Debug\net9.0\KP_1.pdb
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\obj\Debug\net9.0\KP_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\obj\Debug\net9.0\KP_1.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\obj\Debug\net9.0\KP_1.AssemblyInfo.cs
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\obj\Debug\net9.0\KP_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\obj\Debug\net9.0\KP_1.sourcelink.json
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\obj\Debug\net9.0\KP_1.dll
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\obj\Debug\net9.0\refint\KP_1.dll
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\obj\Debug\net9.0\KP_1.pdb
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\obj\Debug\net9.0\KP_1.genruntimeconfig.cache
+C:\Users\user\Documents\PKS_PROJECT\rt_2.2\KP_1\obj\Debug\net9.0\ref\KP_1.dll
